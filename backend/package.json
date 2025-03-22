@@ -1,0 +1,12 @@
+{
+  "name": "dike-backend",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+   "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "author": "umbrella",
+  "license": "ISC"
+}
